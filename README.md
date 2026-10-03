@@ -75,7 +75,7 @@ The additional column is `TotalAmount`, which will be useful for future sales an
 
 Due to the large file size, the cleaned CSV is hosted separately on Google Drive.
 
-**Cleaned Dataset:** [Google Drive Link]
+**Cleaned Dataset:** https://drive.google.com/file/d/14ruQ2_E_tumlDvoeOT6q7pA4ox0fWbz_/view?usp=sharing
 
 ## Project Files
 
@@ -110,6 +110,3 @@ The raw e-commerce transaction dataset was successfully cleaned and prepared for
 * Customer Analysis
 * Interactive Power BI Dashboard
 
-## Internship
-
-This project was completed as part of my **Data Analytics Internship with SWYNEX Technologies**.
