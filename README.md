@@ -85,12 +85,6 @@ SWYNEX-Data-Cleaning-Preparation/
 ├── notebooks/
 │   └── Data_Cleaning_Preparation.ipynb
 │
-├── reports/
-│   └── data_quality_report.csv
-│
-├── scripts/
-│   └── clean_online_retail.py
-│
 └── README.md
 ```
 
