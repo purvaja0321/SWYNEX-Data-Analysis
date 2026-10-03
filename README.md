@@ -82,10 +82,10 @@ Due to the large file size, the cleaned CSV is hosted separately on Google Drive
 ```text
 SWYNEX-Data-Cleaning-Preparation/
 │
-├── notebooks/
-│   └── Data_Cleaning_Preparation.ipynb
-│
-└── README.md
+├── main/
+    └── Data_Cleaning_Preparation.ipynb
+    │ 
+    └── README.md
 ```
 
 ## Tools Used
