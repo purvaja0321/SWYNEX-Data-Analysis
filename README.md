@@ -83,9 +83,20 @@ Due to the large file size, the cleaned CSV is hosted separately on Google Drive
 SWYNEX-Data-Cleaning-Preparation/
 │
 ├── main/
-    └── Data_Cleaning_Preparation.ipynb
-    │ 
-    └── README.md
+|   ├── Data_Cleaning_Preparation.ipynb
+|   |
+|   └── Task_2_Exploratory_Data_Analysis.ipynb
+│
+├── charts/
+│   ├── monthly_revenue.png
+│   ├── top_products.png
+│   ├── top_countries.png
+│   └── ...
+│
+├── reports/
+│   └── EDA_Insights.md
+│
+└── README.md
 ```
 
 ## Tools Used
